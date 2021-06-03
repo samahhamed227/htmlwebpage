@@ -1,4 +1,4 @@
-var x = "this website contains food"
+/*var x = "this website contains food"
 alert ( x)
 var  userAnswer = prompt("which type of food do you like?")
 alert('you like ' +userAnswer )
@@ -16,5 +16,5 @@ else   {
 
 function myFunction() {
   confirm("Enjoy your meal");
-}
+}*/
 
