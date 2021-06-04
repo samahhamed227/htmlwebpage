@@ -13,7 +13,8 @@ var userInput = prompt("how many  meals do you want to require?")
 if (userInput<10)
 
 
- {for (var i =1; i<userInput; i++)
+ {
+   for (var i =1; i<userInput; i++)
 
 {
   document.write( 'it is a'+'<h3>' + i+ 'meal'+'</h3>' )
@@ -27,6 +28,7 @@ function myFunction() {
 
 confirm("Enjoy your "+ Answer
 + "meal");
+break;
 }
 }
 }
